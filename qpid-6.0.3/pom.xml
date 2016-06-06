@@ -31,7 +31,7 @@
     <groupId>org.apache.servicemix.bundles</groupId>
     <artifactId>org.apache.servicemix.bundles.qpid</artifactId>
     <packaging>bundle</packaging>
-    <version>6.0.3_1-SNAPSHOT</version>
+    <version>6.0.3_2-SNAPSHOT</version>
     <name>Apache ServiceMix :: Bundles :: ${pkgArtifactId}</name>
     <description>This OSGi bundle wraps qpid-common and qpid-client ${pkgVersion} jar files.</description>
 

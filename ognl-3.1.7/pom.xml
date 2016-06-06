@@ -30,7 +30,7 @@
 
     <groupId>org.apache.servicemix.bundles</groupId>
     <artifactId>org.apache.servicemix.bundles.ognl</artifactId>
-    <version>3.1.7_1-SNAPSHOT</version>
+    <version>3.1.7_2-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Apache ServiceMix :: Bundles :: ${pkgArtifactId}</name>
     <description>This OSGi bundles wraps ${pkgArtifactId} ${pkgVersion} jar file.</description>
